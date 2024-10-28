@@ -1,0 +1,115 @@
+{
+    "homepage": {
+        "site_title": "Christine Man"
+    },
+    "projects": {
+        "description":"Hollie Beaumont is a photographer and art director based in London. She shoots a diverse range of subjects for commercial and editorial clients, all with a clean and elegant aesthetic.",
+        "projectList": [
+            {
+                "id": 1,
+                "link_title": "HKPC",
+                "project_url": "hkpc",
+                "title": "HKPC",
+                "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Labore et dolore magna aliqua. Id leo in vitae turpis. Arcu cursus vitae congue mauris. Risus at ultrices mi tempus imperdiet. Scelerisque felis imperdiet proin fermentum leo vel orci. Velit euismod in pellentesque massa placerat duis. Enim nunc faucibus a pellentesque sit amet porttitor eget. Volutpat blandit aliquam etiam erat velit scelerisque in",
+                "gallery": [
+                    "HKPC.jpeg",
+                    "HKPC_Portfolio.jpeg"
+                ],
+                "closing_note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Labore et dolore magna aliqua. Id leo in vitae turpis. Arcu cursus vitae congue mauris. Risus at ultrices mi tempus imperdiet. Scelerisque felis imperdiet proin fermentum leo vel orci. Velit euismod in pellentesque massa placerat duis. Enim nunc faucibus a pellentesque sit amet porttitor eget. Volutpat blandit aliquam etiam erat velit scelerisque in."
+            },
+            {
+                "id": 2,
+                "title": "Watches",
+                "project_url": "watches",
+                "link_title": "Watches",
+                "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Labore et dolore magna aliqua. Id leo in vitae turpis. Arcu cursus vitae congue mauris. Risus at ultrices mi tempus imperdiet. Scelerisque felis imperdiet proin fermentum leo vel orci. Velit euismod in pellentesque massa placerat duis. Enim nunc faucibus a pellentesque sit amet porttitor eget. Volutpat blandit aliquam etiam erat velit scelerisque in",
+                "gallery": [
+                    "watches.jpg",
+                    "HKPC_Portfolio.jpeg"
+                ],
+                "closing_note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Labore et dolore magna aliqua. Id leo in vitae turpis. Arcu cursus vitae congue mauris. Risus at ultrices mi tempus imperdiet. Scelerisque felis imperdiet proin fermentum leo vel orci. Velit euismod in pellentesque massa placerat duis. Enim nunc faucibus a pellentesque sit amet porttitor eget. Volutpat blandit aliquam etiam erat velit scelerisque in."
+            },
+            {
+                "id": 3,
+                "link_title": "Sun-Kissed Summer",
+                "project_url": "sun-kissed-summer",
+                "title": "Sun-Kissed Summer - Lipstick Art Exhibition",
+                "summary": "Harbour City presented the first lipstick tasting bar in Hong Kong for all shoppers to have an opportunity to try on over 30 different brands of lipsticks. In collaboration with an American lipstick artist - “Lipstick Lex”, we have merged some of her key design elements into our design. \nThe event has successfully raise the public awareness with over many shoppers participated both the interactive psychological test and personalised lipstick sticker. Television Broadcasts, online resources, and local magazines have also reported on this event.",
+                "gallery": [
+                    "sun_kissed_summer/sunkissed1.jpg",
+                    "sun_kissed_summer/sunkissed2.jpg",
+                    "sun_kissed_summer/sunkissed3.jpg",
+                    "sun_kissed_summer/sunkissed4.jpg",
+                    "sun_kissed_summer/sunkissed5.jpg",
+                    "sun_kissed_summer/sunkissed6.jpg"
+                ],
+                "closing_note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Labore et dolore magna aliqua. Id leo in vitae turpis. Arcu cursus vitae congue mauris. Risus at ultrices mi tempus imperdiet. Scelerisque felis imperdiet proin fermentum leo vel orci. Velit euismod in pellentesque massa placerat duis. Enim nunc faucibus a pellentesque sit amet porttitor eget. Volutpat blandit aliquam etiam erat velit scelerisque in."
+            },
+            {
+                "id": 4,
+                "link_title": "Summer Adventure Kingdom",
+                "project_url": "summer-adventure-kingdom",
+                "title": "Summer Adventure Kingdom - World Cup",
+                "summary": "2018 World Cup is getting close! The shopping malls of Cheung Kong Industrial Estate, Lai Chi Kok Yu Ching Estate, Hung Hom Harbour Plaza, Ho Man Tin Estate, and Tsim Sha Tsui Harbour View Shopping Centre host a series of exciting activities in the summer. \nWith the theme of tropical forests, the elephant explorer, the greedy lion king and the hippo leader led a group of children into the summer forest, and experienced different experiences through the five senses of sight, hearing, smell, taste and touch. Fantasy forest journey!",
+                "gallery": [
+                    "summer_adventure_kingdom/summerAdvKingdom1.jpg",
+                    "summer_adventure_kingdom/summerAdvKingdom2.jpg",
+                    "summer_adventure_kingdom/summerAdvKingdom3.jpg",
+                    "summer_adventure_kingdom/summerAdvKingdom4.jpg"
+                ],
+                "closing_note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Labore et dolore magna aliqua. Id leo in vitae turpis. Arcu cursus vitae congue mauris. Risus at ultrices mi tempus imperdiet. Scelerisque felis imperdiet proin fermentum leo vel orci. Velit euismod in pellentesque massa placerat duis. Enim nunc faucibus a pellentesque sit amet porttitor eget. Volutpat blandit aliquam etiam erat velit scelerisque in."
+            },
+            {
+                "id": 5,
+                "link_title": "Christmas Dream Castle",
+                "project_url": "christmas-dream-castle",
+                "title": "2018 Christmas Event",
+                "summary": "This Christmas, Tai Po Mega Mall, New Jade Shopping Arcade and Yuen Long Plaza has collaborated with a well-known French illustrator, Marie Desbons. The main characters from the illustrator’s book have been brought to life in a Christmas ball scene and dressed up in gorgeous costumes. An incredible stage, huge Christmas tree and the main character have create a dreamy and magnificent French ball to celebrate Christmas with us. \nWhat’s more, an interactive painting game was designed to further enhance the entire event.",
+                "gallery": [
+                    "christmas_dream_castle/christmas-dream-castle1.jpg",
+                    "christmas_dream_castle/christmas-dream-castle2.jpg",
+                    "christmas_dream_castle/christmas-dream-castle3.jpg",
+                    "christmas_dream_castle/christmas-dream-castle4.jpg",
+                    "christmas_dream_castle/christmas-dream-castle5.png",
+                    "christmas_dream_castle/christmas-dream-castle6.jpg",
+                    "christmas_dream_castle/christmas-dream-castle7.jpg"
+                ],
+                "closing_note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Labore et dolore magna aliqua. Id leo in vitae turpis. Arcu cursus vitae congue mauris. Risus at ultrices mi tempus imperdiet. Scelerisque felis imperdiet proin fermentum leo vel orci. Velit euismod in pellentesque massa placerat duis. Enim nunc faucibus a pellentesque sit amet porttitor eget. Volutpat blandit aliquam etiam erat velit scelerisque in."
+            },
+            {
+                "id": 6,
+                "link_title": "Garden of Fortune",
+                "project_url": "garden-of-fortune",
+                "title": "2019 Lunar New Year Event",
+                "summary": "Dedicated to providing memorable and engaging experiences for guests, ifc mall has presented a splendid installation featuring pinwheels to welcome good fortune and celebrating the Year of the Pig. \nThis year, ifc mall has collaborated with young local calligrapher, Rite Lee, to create a downloadable “fai chuns” for guests to share with family and friends after completing the game. \nPinwheel embody the meaning of luck and fortune in Chinese belief. Let’s embrace the good fortune tightly and welcome the year of 2019. ",
+                "gallery": [
+                    "garden_of_fortune/garden-of-fortune1.jpg",
+                    "garden_of_fortune/garden-of-fortune2.jpg",
+                    "garden_of_fortune/garden-of-fortune3.jpg",
+                    "garden_of_fortune/garden-of-fortune4.jpg",
+                    "garden_of_fortune/garden-of-fortune5.jpg",
+                    "garden_of_fortune/garden-of-fortune6.jpg",
+                    "garden_of_fortune/garden-of-fortune7.jpg",
+                    "garden_of_fortune/garden-of-fortune8.1.png",
+                    "garden_of_fortune/garden-of-fortune8.2.png"
+                ],
+                "closing_note": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut Labore et dolore magna aliqua. Id leo in vitae turpis. Arcu cursus vitae congue mauris. Risus at ultrices mi tempus imperdiet. Scelerisque felis imperdiet proin fermentum leo vel orci. Velit euismod in pellentesque massa placerat duis. Enim nunc faucibus a pellentesque sit amet porttitor eget. Volutpat blandit aliquam etiam erat velit scelerisque in."
+            }
+        ]
+    },
+    "about": {
+        "heading": "UI & UX Designer",
+        "subHeading": "based in London and Hong Kong",
+        "summary": "I am enthusiastic and passionate about Design Thinking Process. I love working with different clients because there are so many unknown challenges which keeps me motivated and stay curious. I enjoy creating meaningful and delightful digital products through the use of design.",
+        "services": "Web Design / Mobile Design / Interactive Prototyping / User Interface / UX Design / Visual Design / Design Research / Interactive Prototyping / Video Editing",
+        "clients": "HKPC Academy / Being Sent Travel / TBM The Beauty Medical / Beng Seng / Harbour City / apm"
+    },
+    "contact": {
+        "socialmedia": {
+            "linkedin": "https://www.linkedin.com/in/christine-man-bb99258b/"
+        }
+    },
+    "copyright" : {
+        "text" : "2020 Christine Man"
+    }
+}
